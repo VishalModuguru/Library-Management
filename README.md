@@ -5,4 +5,4 @@
 
 * Front-end: Html, CSS, Javascrpit
 * Backend: Php, MySQL
-* Server : Xampp
+* Server : Xampp.
